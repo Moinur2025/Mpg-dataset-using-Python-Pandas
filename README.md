@@ -1,5 +1,5 @@
 # Mpg-dataset-using-Python-Pandas
-# 🚗 MPG Dataset Analysis with Python & Google Colab
+# 🚗 MPG Dataset Analysis with Python, Pandas & Google Colab
 
 This project explores the **MPG (Miles Per Gallon)** dataset using **Python**, **pandas**, and **Google Colab**. It demonstrates how to perform data cleaning, exploration, and visualization in a cloud-based notebook environment.
 
